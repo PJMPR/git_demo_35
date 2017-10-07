@@ -3,8 +3,8 @@ package gitdemo;
 public class Program {
 
 	public static void main(String[] args) {
-
+System.out.println("s14476");
 	}
 	
-	//nie pamiêtam nic
+	//nie pamiï¿½tam nic
 }
