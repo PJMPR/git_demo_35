@@ -6,5 +6,6 @@ public class Program {
 		// TODO Auto-generated method stub
 
 	}
-
+	
+	//nie pamiêtam nic
 }
