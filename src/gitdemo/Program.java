@@ -3,8 +3,8 @@ package gitdemo;
 public class Program {
 
 	public static void main(String[] args) {
-
+//popsulem plik
 	}
 	
-	//nie pamiêtam nic
+	//nie pamiï¿½tam nic
 }
