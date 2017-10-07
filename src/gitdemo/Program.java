@@ -4,7 +4,10 @@ public class Program {
 
 	public static void main(String[] args) {
 
+		System.out.println("14965");
+
+		
 	}
 	
-	//nie pamiêtam nic
+	//nie pamiï¿½tam nic
 }
