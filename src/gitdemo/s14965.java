@@ -1,6 +1,6 @@
 package gitdemo;
 
-public class s14965 extends Program {
+public class s14965 {
 	
 	
 }
