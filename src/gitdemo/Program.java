@@ -3,8 +3,9 @@ package gitdemo;
 public class Program {
 
 	public static void main(String[] args) {
-
+		
+		System.out.println("Zmiana");
 	}
 	
-	//nie pamiêtam nic
+	//nie pamiï¿½tam nic
 }
